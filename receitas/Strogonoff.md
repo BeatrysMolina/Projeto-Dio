@@ -12,4 +12,4 @@ sal e pimenta a gosto
 1/3 copo de mostarda
 1 copo de cogumelos
 1 copo de creme de leite
-batata palha a gosto
+batata palha a gosto.
