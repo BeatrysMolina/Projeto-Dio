@@ -3,6 +3,6 @@
 Olá! Seja bem-vindo ao meu livro de receitas 👋
 
  -  Strogonoff de frango;
- -  Pave;
+ -  Pavê;
  -  Carne de panela;
- -  Palha Italiana;
+ -  Palha Italiana.
